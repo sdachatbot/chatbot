@@ -31,7 +31,7 @@ responses:
   - text: "I am a bot, powered by Rasa."
 
   utter_inform_for_courses:
-  - text: "Actually we offer Python, Java and DataScience"
+  - text: "Currently, we offer Python, Java and DataScience"
 
 session_config:
   session_expiration_time: 60
