@@ -32,5 +32,6 @@ stories:
 - story: inform for courses
   steps:
     - intent: inform_for_course
-    - action: utter_inform_for_course
+    - action: utter_inform_for_courses
+
 
