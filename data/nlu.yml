@@ -16,6 +16,10 @@ nlu:
     - goodmorning
     - goodevening
     - good afternoon
+    - morning
+    - Ciao
+    - ello
+    - Hellow
 
 - intent: goodbye
   examples: |
@@ -89,3 +93,12 @@ nlu:
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
+- intent: inform_for_course
+  examples: |
+    - What kind of courses do you offer?
+    - What courses are available?
+    - Can you tell me what the courses are?
+    - Courses?
+    - Can you tell me which courses are available now?
+- intent:
+

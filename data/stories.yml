@@ -28,3 +28,7 @@ stories:
   - action: utter_did_that_help
   - intent: deny
   - action: utter_goodbye
+
+- story: inform for courses
+  steps:
+    - intent: inform_for_course
